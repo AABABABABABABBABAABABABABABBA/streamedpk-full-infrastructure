@@ -1,3 +1,7 @@
+
+-- Streamed.pk has since then stopped operating ( nothing is removed from when I first made this )
+
+
 # streamed.pk full infrastructure (2026-10-17
 
 # A. Domains & registrars
